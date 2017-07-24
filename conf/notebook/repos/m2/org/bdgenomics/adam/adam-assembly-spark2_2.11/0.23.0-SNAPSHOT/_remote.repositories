@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 24 06:54:07 EEST 2017
+adam-assembly-spark2_2.11-0.23.0-SNAPSHOT-javadoc.jar>=
+adam-assembly-spark2_2.11-0.23.0-SNAPSHOT.jar>=
+adam-assembly-spark2_2.11-0.23.0-SNAPSHOT.pom>=

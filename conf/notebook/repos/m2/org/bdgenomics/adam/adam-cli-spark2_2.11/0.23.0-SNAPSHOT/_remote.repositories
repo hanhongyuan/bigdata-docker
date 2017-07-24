@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 24 06:53:47 EEST 2017
+adam-cli-spark2_2.11-0.23.0-SNAPSHOT-javadoc.jar>=
+adam-cli-spark2_2.11-0.23.0-SNAPSHOT.pom>=
+adam-cli-spark2_2.11-0.23.0-SNAPSHOT.jar>=
