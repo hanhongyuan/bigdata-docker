@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.bdgenomics.adam</groupId>
+  <artifactId>adam-parent_2.11</artifactId>
+  <version>0.21.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170403.160831</timestamp>
+      <buildNumber>201</buildNumber>
+    </snapshot>
+    <lastUpdated>20170403160831</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.21.1-20170403.160831-201</value>
+        <updated>20170403160831</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

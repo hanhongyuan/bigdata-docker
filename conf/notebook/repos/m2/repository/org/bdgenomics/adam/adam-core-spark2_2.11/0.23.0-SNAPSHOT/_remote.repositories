@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 01 23:29:08 EET 2017
+adam-core-spark2_2.11-0.23.0-SNAPSHOT.jar>=
+adam-core-spark2_2.11-0.23.0-SNAPSHOT-javadoc.jar>=
+adam-core-spark2_2.11-0.23.0-SNAPSHOT.pom>=
+adam-core-spark2_2.11-0.23.0-SNAPSHOT-tests.jar>=

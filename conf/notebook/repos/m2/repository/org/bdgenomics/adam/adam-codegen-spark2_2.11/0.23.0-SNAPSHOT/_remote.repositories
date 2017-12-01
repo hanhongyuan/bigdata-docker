@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 01 23:26:49 EET 2017
+adam-codegen-spark2_2.11-0.23.0-SNAPSHOT.jar>=
+adam-codegen-spark2_2.11-0.23.0-SNAPSHOT-javadoc.jar>=
+adam-codegen-spark2_2.11-0.23.0-SNAPSHOT.pom>=
